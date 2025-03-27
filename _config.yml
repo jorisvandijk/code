@@ -4,5 +4,8 @@ theme: just-the-docs
 
 url: https://joris.codes
 
+logo: "/images/mrgreen.png"
+favicon_ico: "/images/favicon.ico"
+
 aux_links:
   Git: http://www.codeberg.org/jorisvandijk
